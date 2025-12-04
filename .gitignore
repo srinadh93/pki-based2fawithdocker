@@ -1,0 +1,22 @@
+# ❌ Do NOT commit the encrypted seed
+encrypted_seed.txt
+
+# Runtime data (seed + cron logs)
+data/
+cron/last_code.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Env vars
+.env
+
+# IDE settings
+.vscode/
+.idea/
